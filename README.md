@@ -1,18 +1,9 @@
-## Getting Started
+This is a simple Banking System Application written in Java that allows users to perform basic banking operations, such as creating accounts, depositing and withdrawing money, and viewing account details. The application runs in a menu-driven format using the console.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Features
+ Create a new bank account
+ Display account details
+ Search for an account using an account number
+ Deposit money into an account
+ Withdraw money from an account
+ Exit the application
